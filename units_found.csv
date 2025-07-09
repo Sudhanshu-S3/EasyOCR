@@ -1,0 +1,209 @@
+Image_id,Units,Entity_value
+0,0 ton,item_weight
+0,500 gram,item_weight
+1,----,item_volume
+2,0.709 gram,item_weight
+2,200 milligram,item_weight
+2,100 milligram,item_weight
+2,50 milligram,item_weight
+2,25 milligram,item_weight
+2,25 milligram,item_weight
+2,25 milligram,item_weight
+2,25 milligram,item_weight
+2,25 milligram,item_weight
+2,10 milligram,item_weight
+2,5 milligram,item_weight
+2,0.51 gram,item_weight
+2,0.2 gram,item_weight
+2,0.04 gram,item_weight
+2,0.09 gram,item_weight
+3,----,item_weight
+4,1400 milligram,item_weight
+5,1400 milligram,item_weight
+6,1400 milligram,item_weight
+7,----,item_weight
+8,----,item_weight
+9,1400 milligram,item_weight
+10,30 kilogram,item_weight
+10,30 kilogram,item_weight
+10,30 kilogram,item_weight
+11,10 kilogram,item_weight
+11,15 kilogram,item_weight
+11,25 kilogram,item_weight
+11,45 kilogram,item_weight
+11,45 kilogram,item_weight
+12,----,item_weight
+13,----,item_weight
+14,100 gram,item_weight
+14,100 gram,item_weight
+14,100 gram,item_weight
+15,----,item_weight
+16,0 gram,item_weight
+17,280 gram,item_weight
+17,4 gram,item_weight
+18,60 gram,item_weight
+18,0 gram,item_weight
+18,31.5 gram,item_weight
+18,170 milligram,item_weight
+18,35 milligram,item_weight
+18,5 milligram,item_weight
+19,----,item_weight
+20,----,item_weight
+21,----,item_volume
+22,2.7 gram,item_weight
+23,28 gram,item_weight
+23,112 gram,item_weight
+24,44 kilogram,item_weight
+25,48 volt,voltage
+25,48 volt,voltage
+26,158 gram,item_weight
+27,158 gram,item_weight
+28,----,item_weight
+29,----,item_weight
+30,55 gram,item_weight
+31,6 gram,item_weight
+32,55 gram,item_weight
+33,----,item_weight
+34,----,item_weight
+35,26 gram,item_weight
+36,800 watt,wattage
+37,36 volt,voltage
+38,330 pound,item_weight
+39,----,item_weight
+40,10 gram,item_weight
+41,35 gram,item_weight
+41,9 gram,item_weight
+41,5 gram,item_weight
+41,22 gram,item_weight
+41,1 gram,item_weight
+41,21 gram,item_weight
+41,21 gram,item_weight
+41,2 gram,item_weight
+41,45 milligram,item_weight
+41,0.6 milligram,item_weight
+41,75 milligram,item_weight
+42,150 watt,wattage
+43,150 watt,wattage
+44,30 watt,wattage
+45,30 watt,wattage
+46,15.5 gram,item_weight
+47,----,item_weight
+48,250 watt,wattage
+49,----,item_volume
+50,0.8 kilogram,item_weight
+51,169 gram,item_weight
+52,10 gram,item_weight
+53,----,item_weight
+54,4 ton,item_weight
+54,750 gram,item_weight
+55,160 gram,item_weight
+56,270 gram,item_weight
+57,0 gram,item_weight
+58,60 gram,item_weight
+58,200 gram,item_weight
+58,12 gram,item_weight
+59,60 gram,item_weight
+59,1012 gram,item_weight
+59,200 gram,item_weight
+59,12 gram,item_weight
+60,60 gram,item_weight
+60,1012 gram,item_weight
+60,0 gram,item_weight
+60,12 gram,item_weight
+61,2.2 pound,item_weight
+61,50 gram,item_weight
+61,100 gram,item_weight
+61,2.50 gram,item_weight
+61,1.25 gram,item_weight
+61,1.25 gram,item_weight
+61,2.00 gram,item_weight
+61,0.50 gram,item_weight
+61,0.5 gram,item_weight
+61,1.00 gram,item_weight
+61,0 gram,item_weight
+61,0.40 gram,item_weight
+61,10 milligram,item_weight
+61,1.70 gram,item_weight
+61,100 gram,item_weight
+61,50 milligram,item_weight
+61,1.40 gram,item_weight
+61,3.00 gram,item_weight
+61,5 gram,item_weight
+61,12 gram,item_weight
+61,1.25 gram,item_weight
+61,0.40 gram,item_weight
+61,5.5 gram,item_weight
+61,120 gram,item_weight
+61,2.50 gram,item_weight
+61,60 gram,item_weight
+61,1 gram,item_weight
+62,60 watt,wattage
+63,----,item_volume
+64,----,item_volume
+65,----,item_volume
+66,----,item_volume
+67,----,item_volume
+68,----,item_weight
+69,8.1 gram,item_weight
+70,----,item_weight
+71,----,item_weight
+72,----,item_weight
+73,----,item_weight
+74,----,item_weight
+75,----,item_weight
+76,----,item_weight
+77,100 gram,item_weight
+77,100 gram,item_weight
+77,100 gram,item_weight
+77,100 gram,item_weight
+77,100 gram,item_weight
+77,100 gram,item_weight
+77,100 gram,item_weight
+77,100 gram,item_weight
+77,100 gram,item_weight
+77,100 gram,item_weight
+77,100 gram,item_weight
+77,18.72 milligram,item_weight
+77,100 gram,item_weight
+77,100 gram,item_weight
+77,100 gram,item_weight
+77,100 gram,item_weight
+78,----,item_weight
+79,5 kilogram,item_weight
+80,----,item_weight
+81,----,item_volume
+82,8 ounce,item_weight
+82,227 gram,item_weight
+83,----,item_weight
+84,100 gram,item_weight
+84,0 gram,item_weight
+84,3 gram,item_weight
+84,0 gram,item_weight
+84,0 gram,item_weight
+84,1 gram,item_weight
+84,10 gram,item_weight
+84,190 gram,item_weight
+85,100 gram,item_weight
+85,0 gram,item_weight
+85,0 gram,item_weight
+85,1 gram,item_weight
+85,10 gram,item_weight
+86,600 milligram,item_weight
+87,3.2 gram,item_weight
+88,6.5 gram,item_weight
+89,----,item_weight
+90,42 gram,item_weight
+90,0 gram,item_weight
+90,15 milligram,item_weight
+90,39 gram,item_weight
+90,28 gram,item_weight
+90,28 gram,item_weight
+91,----,item_weight
+92,0.55 watt,wattage
+93,50 milligram,item_weight
+94,----,item_weight
+95,----,wattage
+96,----,item_weight
+97,----,item_weight
+98,----,item_weight
+99,----,item_weight
